@@ -1,0 +1,8 @@
+name: ChatCooldown
+version: 1.0
+main: me.peacetuba.chatcooldown.ChatCooldown
+author: PeaceTuba
+
+commands:
+  setcooldown:
+    permission: ChatCooldown.set
